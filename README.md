@@ -1,7 +1,7 @@
 #### Library Main Navigation: &nbsp; &nbsp;  <b> [Ecosystem Library Home](https://github.com/NIH-NICHD-Ecosystem) </b> &nbsp; | &nbsp;[User Stories](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/README.md) &nbsp; | &nbsp; [Efforts](https://github.com/NIH-NICHD-Ecosystem/Efforts/blob/main/README.md) &nbsp; | &nbsp; [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md)
 </br><br/>
 
-# E5: NICHD User Story Tracker 
+# E5: User Story Tracker 
 
 ### The NICHD Office of Data Science and Sharing developed a User Story Tracker to systematically capture the NICHD research community’s data science and data sharing needs, understand current practices and barriers, and  develop efforts to address needs. This structured, reusable framework enables NICHD ODSS—and other organizations—to understand and analyze user needs, distinguish real from perceived challenges, prioritize development resources, and deliver impactful human-centered solutions.
 
