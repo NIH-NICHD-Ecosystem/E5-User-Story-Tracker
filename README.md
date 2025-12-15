@@ -52,7 +52,7 @@ NICHD User Stories are a foundational component of this GitHub library and the N
 ## Documentation Files
 The NICHD User Story Tracker Template is a structured tool designed to help organizations systematically capture their communities’ needs in data science and data sharing. This template provides a clear, repeatable framework for collecting User Stories and gathering contextual information to develop solutions that address user needs.
 
-[Link to NICHD Story Tracker Template](https://github.com/NIH-NICHD-Ecosystem/Effort-Template/blob/hwright-2025-Effort_Template_Draft1/Documentation%20Files/NICHD%20StoryTracker-V4_Template.xlsm)
+[Link to NICHD Story Tracker Template]([https://github.com/NIH-NICHD-Ecosystem/Effort-Template/blob/hwright-2025-Effort_Template_Draft1/Documentation%20Files/NICHD%20StoryTracker-V4_Template.xlsm](https://github.com/NIH-NICHD-Ecosystem/E5-User-Story-Tracker/tree/main/Documentation%20Files))
 
 There are four tabs including Instruction Details with instructions for completing and hosting the StoryTracker, StoryTracker (which is where User Stories are recorded), a Data Dictionary describing all fields, and a Categories tab which is referenced by the fields that use controlled vocabularies).  
 
