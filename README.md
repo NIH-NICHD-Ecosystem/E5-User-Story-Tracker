@@ -41,7 +41,6 @@ NICHD User Stories are a foundational component of this GitHub library and the N
 * <b> Sponsor contact:</b> 
     * Rebecca Rosen, Director, NICHD ODSS
     * Valerie Cotton, Deputy Director, NICHD ODSS
-    * Elizabeth Clerkin, Data Science and Sharing Specialist, NICHD ODSS 
 
 <br/><br/>
 
