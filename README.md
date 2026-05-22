@@ -61,7 +61,7 @@ NICHD encourages other organizations to adopt and adapt this template to fit the
 
 <br/>
 
-## User Stories
+# User Stories
 
 <br/>
 
